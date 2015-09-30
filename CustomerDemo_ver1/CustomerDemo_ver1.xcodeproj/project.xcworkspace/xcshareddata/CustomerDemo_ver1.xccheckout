@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>7276599E-1CAA-47BA-AA8F-E17715848608</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>CustomerDemo_ver1</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>593EAD50EC51143D67FBB828BCFA0237EA6D54EC</key>
 		<string>https://github.com/mrthanh223/CustomerDemo_ver1.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>CustomerDemo_ver1/CustomerDemo_ver1.xcodeproj/project.xcworkspace</string>
+	<string>CustomerDemo_ver1/CustomerDemo_ver1.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>593EAD50EC51143D67FBB828BCFA0237EA6D54EC</key>
